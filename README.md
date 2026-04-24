@@ -30,5 +30,5 @@ To analyze sales data and extract meaningful insights using Python.
 This analysis highlights that the Technology category, especially Phones, performs the best in terms of sales. The West region and Consumer segment contribute significantly to overall revenue, indicating key areas for business focus and growth.
 
 ## Sample Visualizations
-![Sales by Category](Sales by Sub-Category.png)
-![Sales by Region](Sales by region.png)
+![Sales by Category](SubCategory.png)
+![Sales by Region](region.png)
