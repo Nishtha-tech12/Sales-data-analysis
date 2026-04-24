@@ -26,8 +26,16 @@ To analyze sales data and extract meaningful insights using Python.
 - West region generates the highest sales.
 - Consumer segment has the highest sales.
 
+## Business Impact
+The analysis helps businesses identify top-performing categories, regions, and customer segments, enabling better decision-making in marketing, inventory planning, and sales strategy.
+
 ## Conclusion
 This analysis highlights that the Technology category, especially Phones, performs the best in terms of sales. The West region and Consumer segment contribute significantly to overall revenue, indicating key areas for business focus and growth.
+
+## How to Run
+1. Open the notebook in Jupyter Notebook or Anaconda
+2. Run all cells step by step
+3. Ensure dataset path is correctly set
 
 ## Sample Visualizations
 ![Sales by Category](SubCategory.png)
