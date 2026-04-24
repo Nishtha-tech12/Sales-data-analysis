@@ -4,6 +4,7 @@
 - data/ : contains dataset
 - notebooks/ : contains analysis notebook
 - README.md : project documentation
+
 ## Objective
 To analyze sales data and extract meaningful insights using Python.
 
@@ -27,3 +28,5 @@ To analyze sales data and extract meaningful insights using Python.
 
 ## Conclusion
 This analysis highlights that the Technology category, especially Phones, performs the best in terms of sales. The West region and Consumer segment contribute significantly to overall revenue, indicating key areas for business focus and growth.
+
+## Sample Visualizations
